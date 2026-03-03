@@ -1,0 +1,7 @@
+BFS:
+Solution found.
+Nodes explored: 15
+
+DFS:
+Solution found.
+Nodes explored: 20
